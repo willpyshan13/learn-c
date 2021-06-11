@@ -16,10 +16,10 @@ void test01(){
 int main() {
 
     test01();
-//    Person1 *person1 = malloc(sizeof(Person1));
-//    person1->a = 100;
-//    person1->b = 22;
-//    printf("Hello, World!\n a= %d",person1->a);
-//    printf("b= %d",person1->b);
+    Person1 *person1 = malloc(sizeof(Person1));
+    person1->a = 100;
+    person1->b = 22;
+    printf("Hello, World!\n a= %d",person1->a);
+    printf("b= %d",person1->b);
     return 0;
 }

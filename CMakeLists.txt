@@ -3,4 +3,4 @@ project(learnC C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(learnC main5.c)
+add_executable(learnC main6.c)
