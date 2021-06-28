@@ -1,0 +1,3 @@
+/Users/will/Downloads/project/c++/learnC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/will/Downloads/project/c++/learnC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/will/Downloads/project/c++/learnC/cmake-build-debug/CMakeFiles/learnC.dir
