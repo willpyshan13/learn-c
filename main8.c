@@ -4,10 +4,11 @@
 #include <printf.h>
 #include <stdio.h>
 #include <stdlib.h>
+#define ADD(a,b) a+b
 
 void test01(){
     int *p;
-    printf("---%p  ",p);
+    printf("---%d  ", ADD(1,2));
     int * aar = malloc(16);
 }
 
